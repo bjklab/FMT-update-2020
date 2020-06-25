@@ -1,0 +1,315 @@
+---
+title: "Fecal Microbiota Transplant"
+subtitle: "🎉 2020 (is the worst) edition 🎉"  
+author: "Brendan J. Kelly, MD, MS"
+date: 'Update: `r format(Sys.Date(), "%d %B %Y")`'
+output:
+  xaringan::moon_reader:
+    self_contained: TRUE
+    lib_dir: libs
+    css: xaringan-themer-plus.css
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: middle, inverse
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE, eval=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#011F5B",
+  secondary_color = "#990000",
+  inverse_header_color = "#FFFFFF",
+  header_font_google = google_font("Roboto Condensed"),
+  text_font_google = google_font("Roboto"),
+  code_font_google = google_font("Roboto Mono"),
+  # padding = "64px 64px 64px 64px"
+  # base_font_size = "24px",
+  # text_font_base = "1rem",
+  # header_h1_font_size = "2.75rem",
+  # header_h2_font_size = "2rem",
+  # header_h3_font_size = "1.25rem",
+)
+```
+
+.pad-left[
+
+### Fecal microbiota transplant (FMT) indications:  
+.pad-left[
+####    ⇾ _Clostridioides difficile_ infection
+]
+.pad-left[
+####    ⇾ inflammatory bowel disease (IBD)  
+]
+.pad-left[
+####    ⇾ autologous-FMT post allogeneic-SCT  
+]
+### FMT regulatory oversight (& COVID-19)  
+  
+### Does it work? and why?  
+  
+]
+
+
+
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: center, middle, inverse
+
+# FMT indications ⇾ CDI
+
+
+---
+
+# FMT for _Clostridioides difficile_
+
+.center[
+
+]
+
+
+
+---
+
+# C.difficile Treatment Guidelines
+
+.pad-left[
+
+
+]
+
+
+
+---
+
+# The FMT Backlash
+
+.pad-left[
+
+- Not a panacaea
+
+- Serious adverse events
+
+]
+
+
+---
+
+# Commercial FMT: Phase II/III Trials
+
+.pad-left[
+
+
+]
+
+
+---
+background-image: url(img/)
+background-size: contain
+
+
+
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: center, middle, inverse
+
+# FMT indications ⇾ IBD
+
+
+
+---
+
+# FMT for IBD Successes
+
+.pad-left[
+
+
+]
+
+
+---
+
+# FMT for IBD Adverse Events
+
+.pad-left[
+
+]
+
+
+
+---
+
+# Misclassification Matters
+
+.pad-left[
+
+- Lesson from FMT for CDI trials (e.g., Seres):
+
+    - CDI diagnosed by EIA vs NAAT
+    - misclassification of NAAT+ disease
+
+- How well defined are IBD phenotypes?
+
+
+]
+
+
+
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: center, middle, inverse
+
+# FMT indications ⇾ allo-SCT
+
+
+
+---
+
+# auto-FMT for allo-SCT
+
+.pad-left[
+
+]
+
+
+---
+
+# Dysbiosis & Death
+
+.pad-left[
+
+
+
+]
+
+
+
+---
+background-image: url(img/taur_diversity_vs_engraftment.png)
+background-size: 800px
+background-position: 50% 50%
+
+
+.footnote[Taur et al _Sci Trans Med_ 2018]
+
+
+---
+
+# Feasibility of auto-FMT
+
+.pad-left[
+
+]
+
+
+
+
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: center, middle, inverse
+
+# FMT regulation
+
+
+
+---
+
+# FMT Regulation pre-COVID-19
+
+.pad-left[
+
+
+]
+
+
+
+---
+
+# Impact of COVID-19
+
+.pad-left[
+
+- FDA partial hold
+
+- Challenges with stool testing
+
+- Slow (already slow) clinical trial enrollment
+
+
+]
+
+
+
+---
+background-image: url(svg/darkpink.svg)
+background-size: 150px
+background-position: 98% 90%
+class: center, middle, inverse
+
+#  Does it work? and why?
+
+
+
+---
+
+# FMT Regulation pre-COVID-19
+
+.pad-left[
+
+
+]
+
+
+
+---
+
+# Impact of COVID-19
+
+.pad-left[
+
+
+
+]
+
+
+
+---
+class: center, middle, inverse
+background-image: url(svg/conjugation.svg)
+background-size: 500px
+background-position: 85% 50%
+
+# Questions?
+
+
+
+---
+background-image: url(svg/bacteria.svg)
+background-size: 100px
+background-position: 98% 90%
+class: center, middle
+
+# Thank you!
+#### Slides available: [github.com/bjklab](https://github.com/bjklab/FMT-update-2020.git)
+#### [brendank@pennmedicine.upenn.edu](brendank@pennmedicine.upenn.edu)
+
+
+
+
