@@ -1,6 +1,6 @@
 ---
 title: "Fecal Microbiota Transplantation"
-subtitle: "🎉 2020<span style='vertical-align:super;font-size:0.5em'>(is the worst)</span> Update 🎉"  
+subtitle: "🎉 2020 Update 🎉"  
 author: "Brendan J. Kelly, MD, MS"
 date: 'Update: `r format(Sys.Date(), "%d %B %Y")`'
 output:
@@ -59,6 +59,9 @@ class: middle, inverse
 ### Fecal microbiota transplantation (FMT):  
 .pad-left[
 ####    ⇾ _Clostridioides difficile_ infection
+]
+.pad-left[
+####    ⇾ MDRO colonization
 ]
 .pad-left[
 ####    ⇾ inflammatory bowel disease (IBD)  
