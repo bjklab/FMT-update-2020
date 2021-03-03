@@ -2,7 +2,7 @@
 title: "Fecal Microbiota Transplantation"
 subtitle: "🎉 2020 Update 🎉"  
 author: "Brendan J. Kelly, MD, MS"
-date: 'Update: `r format(Sys.Date(), "%d %B %Y")`'
+date: 'Updated: 25 June 2020' #`r format(Sys.Date(), "%d %B %Y")`
 output:
   xaringan::moon_reader:
     self_contained: TRUE
@@ -37,6 +37,13 @@ style_duo_accent(
 )
 ```
 
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_webcam()
+xaringanExtra::use_tachyons()
+xaringanExtra::use_animate_css()
+xaringanExtra::use_share_again()
+```
 
 # Disclosures
 
